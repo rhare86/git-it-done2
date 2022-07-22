@@ -93,4 +93,3 @@ var displayIssues = function(issues) {
 
 
 getRepoName();
-getRepoIssues();
